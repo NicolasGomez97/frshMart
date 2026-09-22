@@ -1,0 +1,13 @@
+Base operacional: PostgreSQL 15 en AWS RDS — 3 bases separadas (orders, users, inventory)
+▹
+Data Lake: AWS S3 — zona raw funciona, silver/gold en construcción
+▹
+Orquestación: Apache Airflow 2.7 — 12 DAGs, la mitad rotos o deshabilitados
+▹
+BI: Metabase — 47 dashboards, 30 de ellos abandonados o rotos
+▹
+Modelado: dbt Core — solo lo usa Elena (la tech lead), nadie más lo toca
+▹
+Repositorio: GitHub monorepo freshmart-data — PRs obligatorios pero sin CI
+▹
+Lenguajes: Python 3.11 y SQL para todo el equipo de datos

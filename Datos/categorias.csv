@@ -1,0 +1,90 @@
+categoria_id,nombre,padre_id,nivel
+1,Alimentación,,1
+2,Bebidas,,1
+3,Higiene y hogar,,1
+4,Frescos,,1
+5,Congelados,,1
+6,Bebés y niños,,1
+7,Mascotas,,1
+8,Electrónica hogar,,1
+9,Aceites y vinagres,1.0,2
+10,Conservas,1.0,2
+11,Pasta y arroces,1.0,2
+12,Cereales y galletas,1.0,2
+13,Salsas y condimentos,1.0,2
+14,Legumbres,1.0,2
+15,Harinas y masas,1.0,2
+16,Encurtidos,1.0,2
+17,Snacks y aperitivos,1.0,2
+18,Frutos secos,1.0,2
+19,Chocolate y dulces,1.0,2
+20,Miel y mermeladas,1.0,2
+21,Agua mineral,2.0,2
+22,Refrescos,2.0,2
+23,Zumos,2.0,2
+24,Cerveza y vino,2.0,2
+25,Café e infusiones,2.0,2
+26,Bebidas energéticas,2.0,2
+27,Bebidas vegetales,2.0,2
+28,Licores,2.0,2
+29,Higiene personal,3.0,2
+30,Limpieza hogar,3.0,2
+31,Papel y celulosa,3.0,2
+32,Ambientadores,3.0,2
+33,Insecticidas,3.0,2
+34,Detergentes,3.0,2
+35,Lácteos,4.0,2
+36,Carnes,4.0,2
+37,Pescados,4.0,2
+38,Frutas y verduras,4.0,2
+39,Panadería,4.0,2
+40,Charcutería,4.0,2
+41,Quesos,4.0,2
+42,Huevos,4.0,2
+43,Platos preparados frescos,4.0,2
+44,Helados,5.0,2
+45,Verduras congeladas,5.0,2
+46,Pescado congelado,5.0,2
+47,Carne congelada,5.0,2
+48,Platos preparados congelados,5.0,2
+49,Pizzas congeladas,5.0,2
+50,Postres congelados,5.0,2
+51,Pañales,6.0,2
+52,Alimentación infantil,6.0,2
+53,Higiene bebé,6.0,2
+54,Accesorios bebé,6.0,2
+55,Alimentación perros,7.0,2
+56,Alimentación gatos,7.0,2
+57,Accesorios mascotas,7.0,2
+58,Higiene mascotas,7.0,2
+59,Pilas y baterías,8.0,2
+60,Bombillas,8.0,2
+61,Pequeño electrodoméstico,8.0,2
+62,Leche,49.0,3
+63,Yogures,16.0,3
+64,Quesos frescos,10.0,3
+65,Mantequillas,56.0,3
+66,Aceite oliva,26.0,3
+67,Aceite girasol,24.0,3
+68,Vinagres,23.0,3
+69,Pollo y pavo,17.0,3
+70,Cerdo,56.0,3
+71,Vacuno,15.0,3
+72,Embutidos,52.0,3
+73,Pescado blanco,56.0,3
+74,Pescado azul,43.0,3
+75,Mariscos,14.0,3
+76,Fruta de temporada,46.0,3
+77,Verduras de hoja,36.0,3
+78,Tubérculos,11.0,3
+79,Pan fresco,10.0,3
+80,Bollería,14.0,3
+81,Repostería,22.0,3
+82,Cervezas nacionales,23.0,3
+83,Vinos tintos,41.0,3
+84,Vinos blancos,47.0,3
+85,Champús y acondicionadores,10.0,3
+86,Geles de ducha,44.0,3
+87,Dentífricos,21.0,3
+88,Detergente líquido,54.0,3
+89,Suavizante ropa,50.0,3
